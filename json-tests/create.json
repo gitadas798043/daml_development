@@ -1,0 +1,8 @@
+{
+  "templateId": "5c4aeeb4eecadc4e9cf1a4e0f8f915889ab382f0121155ccf86505da6d50a28b:Main:Asset",
+  "payload": {
+    "issuer": "Alice::12201c498a37392106f2ba8fb4fce206e71f12ed1e98fb923837c94294c6d1bb47ac",
+    "owner": "Alice::12201c498a37392106f2ba8fb4fce206e71f12ed1e98fb923837c94294c6d1bb47ac",
+    "name": "Example Asset Name"
+  }
+}
